@@ -1,0 +1,8 @@
+{
+  "name": "matsuba-monster",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Science quiz monster adventure",
+  "scripts": { "test": "node battle-regression.cjs" },
+  "engines": { "node": ">=20" }
+}
